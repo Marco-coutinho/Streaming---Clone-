@@ -12,7 +12,7 @@
   
   <p align="center">
     <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#Conclusão"> 🏆 Conclusão </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   
