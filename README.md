@@ -25,12 +25,12 @@ Site desenvolvido com prototipo base clone da Netflix
 utilizando logos de nerdflix como uma readptação voltada para o mundo Nerd 
 
 Utilizado tecnologias de:
-RectJS | HTML | CSS
-API de: TMDB
-E Logotipo da: Nerdflix.
+<p> RectJS | HTML | CSS </p>
+<p> API de: TMDB  </p>
+<p> E Logotipo da: Nerdflix. </p>
 
 Feito com Amor e carinho para praticas de Desenvolvimento.
-
+</p>
 <br/>
 
 <a id="Resultados"></a>
